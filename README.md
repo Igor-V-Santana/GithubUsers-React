@@ -5,7 +5,7 @@
   <h3 align="center">GitHub Users utilizando API : https://api.github.com/</h3>
 </p>
 <p align="center"> 
-  <a href="https://igor-v-santana.github.io/Github-Users/">Site do Projeto</a> /
+  <a href="https://igor-v-santana.github.io/GithubUsers//">Site do Projeto</a> /
   <a href="https://www.linkedin.com/in/igor-santanaa/">Contato</a>
 </p>
 
